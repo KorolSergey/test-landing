@@ -504,7 +504,7 @@
 }
 
 
-
+// MEDIA--------------------------------
 
 @media (max-width: 970px) {
     .banner {
@@ -692,7 +692,11 @@
         }
 
         &__timer-num-text {
-            margin-right: 30px;
+            margin-right: 10px;
+        }
+
+        &__custom {
+            margin-right: 10px;
         }
 
         &__last-child {

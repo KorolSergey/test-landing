@@ -643,7 +643,10 @@ body {
     font-size: 15px;
   }
   .banner__timer-num-text {
-    margin-right: 30px;
+    margin-right: 10px;
+  }
+  .banner__custom {
+    margin-right: 10px;
   }
   .banner__last-child {
     margin-right: 0;

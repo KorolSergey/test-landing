@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+
+.container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.global-button {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 11px;
+    font-weight: 600;
+    background-color: #FD541E;
+    width: 150px;
+    padding: 10px;
+    transition: 0.3s;
+}
+
+.global-title {
+    text-align: center;
+    font-weight: 500;
+}
+
+.global-line {
+    height: 2px;
+    width: 60px;
+    background-color: blue;
+    margin: 30px auto;
+}
